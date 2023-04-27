@@ -21,7 +21,7 @@ describe('files', function () {
     });
 
     describe('import', function () {
-        it('should import pdf', function () {
+        it('should import pdff', function () {
             assert.isTrue(true);
         });
 
